@@ -1,0 +1,29 @@
+[0219/213849.390:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213854.403:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213859.423:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213904.438:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213909.452:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213914.462:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213919.475:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213924.489:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213929.509:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213934.536:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213939.551:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0219/213944.568:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104105.569:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104110.590:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104115.603:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104120.610:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104125.619:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104130.640:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104135.663:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104140.675:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104145.692:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104150.711:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104155.722:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104200.734:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0221/104205.745:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0312/233904.162:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0312/233904.296:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0312/233904.296:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0313/001648.982:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
